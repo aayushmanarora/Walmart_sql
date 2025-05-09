@@ -145,7 +145,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-```
 
-Let me know if you'd like a version with badges, a custom banner, or a markdown table of contents.
-```
