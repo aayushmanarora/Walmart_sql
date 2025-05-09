@@ -1,8 +1,6 @@
-Sure! Below is the improved and professional version of your `README.md` file, ready for you to copy and paste into your GitHub repository:
 
----
 
-```markdown
+
 # 🛒 Walmart Sales Data Analysis (Python + SQL)
 
 This project is an end-to-end data analysis pipeline designed to extract critical business insights from Walmart sales data. It uses **Python** for data processing and **SQL** (MySQL & PostgreSQL) for complex querying. This project is ideal for data analysts looking to build skills in data manipulation, querying, and data pipeline development.
