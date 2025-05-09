@@ -132,11 +132,7 @@ ORDER BY Total_Revenue DESC;
 
 ---
 
-## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙌 Acknowledgments
 
