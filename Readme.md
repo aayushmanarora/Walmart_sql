@@ -3,14 +3,14 @@
 
 # 🛒 Walmart Sales Data Analysis (Python + SQL)
 
-This project is an end-to-end data analysis pipeline designed to extract critical business insights from Walmart sales data. It uses **Python** for data processing and **SQL** (MySQL & PostgreSQL) for complex querying. This project is ideal for data analysts looking to build skills in data manipulation, querying, and data pipeline development.
+This project is an end-to-end data analysis pipeline designed to extract critical business insights from Walmart sales data. It uses **Python** for data processing and **SQL**  for complex querying. This project is ideal for data analysts looking to build skills in data manipulation, querying, and data pipeline development.
 
 ---
 
 ## 📌 Project Objectives
 
 - Clean and transform sales data using Python.
-- Load cleaned data into MySQL and PostgreSQL.
+- Load cleaned data into MySQL
 - Use SQL to answer real-world business questions.
 - Extract key insights about revenue, customer behavior, and product performance.
 
@@ -18,9 +18,8 @@ This project is an end-to-end data analysis pipeline designed to extract critica
 
 ## 🛠️ Tools & Technologies
 
-- Python 3.8+
-- SQL: MySQL & PostgreSQL
-- Libraries: `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`, `psycopg2-binary`
+- Python 3.8
+- SQL: MySQL 
 - VS Code for development
 - [Kaggle API](https://www.kaggle.com/docs/api) for dataset access
 
@@ -84,32 +83,11 @@ python main.py
 
 ## 🏗️ Database Integration
 
-* Connect to **MySQL** and **PostgreSQL** using SQLAlchemy.
+* Connect to **MySQL**
 * Create tables and insert cleaned data programmatically.
 * Validate data loading using test SQL queries.
 
----
 
-## 📊 SQL Business Analysis
-
-Here are some key business questions answered using SQL:
-
-* **Revenue trends by branch and product category**
-* **Best-selling product categories**
-* **Top-performing cities and peak hours**
-* **Preferred payment methods by customer segments**
-* **Profitability by category and branch**
-
-### 🔍 Sample Query
-
-```sql
-SELECT Branch, Category, SUM(Total_Amount) AS Total_Revenue
-FROM sales_data
-GROUP BY Branch, Category
-ORDER BY Total_Revenue DESC;
-```
-
----
 
 ## 📈 Results & Insights
 
@@ -126,8 +104,7 @@ ORDER BY Total_Revenue DESC;
 
 ## 🔄 Future Enhancements
 
-* Integrate with **Power BI** or **Tableau** for dynamic dashboards
-* Automate the ETL pipeline for real-time analysis
+* Integrate with **Power BI** or **Tableau** 
 * Incorporate additional datasets (e.g., inventory, customer feedback)
 
 ---
