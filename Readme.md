@@ -1,7 +1,7 @@
 
 
 
-# 🛒 Walmart Sales Data Analysis (Python + SQL)
+# 🛒 Walmart Sales Data Analysis 
 
 This project is an end-to-end data analysis pipeline designed to extract critical business insights from Walmart sales data. It uses **Python** for data processing and **SQL**  for complex querying. This project is ideal for data analysts looking to build skills in data manipulation, querying, and data pipeline development.
 
